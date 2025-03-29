@@ -7,37 +7,7 @@
 
 body{
     background: #222;
-
 }
-
-/* #logo{
-   text-align: center;
-    background: linear-gradient(135deg, #00feba, #5b548a);
-    background-size: cover;
-    border-radius: 20px;
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-    /* margin-left: 460px;
-    margin-right:460px; */
-
-/* }
-#p{
-    font-size: 4rem;
-    color: #fff;
-    background: 
-        url('images/logooo.jpg') center;
-    background-size: cover;
-    background-clip: text;
-    color: transparent;
-    animation: animate 10s linear infinite ;
-   
-}
-@keyframes animate { to{
-    background-position-x: -200px ;
-}
-    
-} */ 
 
 .card{
     width: 90%;
